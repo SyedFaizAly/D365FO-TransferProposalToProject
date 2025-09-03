@@ -71,7 +71,6 @@ All development was done using Visual Studio and D365 F&O development tools.
 │   ├── ProjectQuotations.png
 │   ├── ProjectHeaders.png
 │   ├── ProjectContracts.png
-│   ├── ProjectHeaders.png
 │   ├── SubProject.png
 │
 └── README.md
